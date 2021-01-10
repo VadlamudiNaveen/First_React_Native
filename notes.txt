@@ -1,0 +1,18 @@
+so 
+How does the react native works ?
+so to clarify that what we write is a react code that is compiled to the target native platform code.
+but the next important thing that we need is the business logic is stored as business logic itself and
+the VM is created by the system where the javascript code is executed by the bridge to the respective native platforms 
+api.
+Expo or reactnative-cli
+styling is done by javascript not the css.
+
+1 view
+2 text
+3 touchable
+4 textinput
+5 image
+6 button
+ inline and styelsheet properties are used here.
+ but only subset and few features are supported.
+ style sheet will automatically add the validation before applying to the components .
